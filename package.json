@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@worldcoin/minikit-js": "^1.5.0",
+    "@worldcoin/minikit-react": "^1.5.0"
+  }
+}
